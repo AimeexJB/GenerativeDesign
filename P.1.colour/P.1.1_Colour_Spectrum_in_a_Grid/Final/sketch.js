@@ -15,7 +15,7 @@ function setup() {
 
 function draw() {
 
-	//Changing the stepX and stepY so they are now determinedby the mouse position
+	//Changing the stepX and stepY so they are now determined by the mouse position
 	//We divde by 5 to reduce the amount of steps there are and
 	//add 1 to prevent the value from being to small and causing the page to freeze
 	stepX = mouseX/5 +1;

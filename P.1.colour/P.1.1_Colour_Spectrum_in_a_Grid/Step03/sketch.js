@@ -16,7 +16,7 @@ function setup() {
 
 function draw() {
 
-	//Nesting the gridX loop n a gridY loop to create rectangles all over the canvas.
+	//Nesting the gridX loop in a gridY loop to create rectangles all over the canvas.
 	//gridY is used to determin the rectangles along the Y axis
 	for(var gridY = 0; gridY<800; gridY+=stepY){
 		for(var gridX = 0; gridX<800; gridX+=stepX){

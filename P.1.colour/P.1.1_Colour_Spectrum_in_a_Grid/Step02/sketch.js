@@ -9,7 +9,7 @@ function setup() {
 
 function draw() {
 
-	//Looping the rectangle to crete a row of 10 rectangles across the canvas
+	//Looping the rectangle to create a row of 10 rectangles across the canvas
 	//gridX is used to determine the position of the rectangles along the X axis
 	for(var gridX = 0; gridX<800; gridX+=80){
 		fill(246, 296, 158)
