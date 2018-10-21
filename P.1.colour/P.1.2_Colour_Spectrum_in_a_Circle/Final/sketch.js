@@ -10,7 +10,6 @@ function draw() {
 
 	background(374, 296, 158);
 
-	var angle = 0;
 	var segmentCount = map(mouseY, 0, height, 1, 360);
 	var angleIncrement = 360/segmentCount
 	var radius = 200;
@@ -36,7 +35,7 @@ function keyPressed() {
 	//Using the generative design timestamp function to save the picture as a PNG
 	if (key == 's'|| key == 'S') saveCanvas(gd.timestamp(), 'png');
 
-	//The switch command checkes the last key pressed so that is is easy to switch between different cases
+	//The switch command checks the last key pressed so that is is easy to switch between different cases
 	switch(key) {
 		case '1':
 			segmentCount = 360;

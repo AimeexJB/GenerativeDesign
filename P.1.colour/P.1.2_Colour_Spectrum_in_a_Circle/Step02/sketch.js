@@ -11,7 +11,7 @@ function draw() {
 	//adding in a background colour
 	background(374, 296, 158);
 
-	//Creating the cariable segment and setting it to 360 as a circle is 360 degrees, 360 segments
+	//Creating the variable segmentCount and setting it to 360 as a circle is 360 degrees, 360 segments
 	var segmentCount = 360
 	//the angleIncrement depends on how many segments are to be drawn
 	var angleIncrement = 360/segmentCount

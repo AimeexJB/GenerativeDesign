@@ -2,6 +2,7 @@
 //We set up the canvas and make the colourmode HSB where the Hue is 360 and the Saturation and Brightness are 100
 function setup() {
 	createCanvas(800, 400);
+	colorMode(HSB, 360, 100, 100);
 
 }
 
