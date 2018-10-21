@@ -9,7 +9,7 @@ function setup() {
 }
 
 function draw() {
-    //white back
+
     background(0, 0, 100);
 
     //limit mouse coordinates from 0 to the width and height of the canvas using the consrain function
