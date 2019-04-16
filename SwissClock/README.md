@@ -1,4 +1,5 @@
 # Generative Design
 
+An assignment to code the famous "Swiss Clock" seen in railway stations using a mix of vectors and variables.
 
-1. [Colour](P.1.colour/)
+1. [Swiss Clock](clock/)
