@@ -6,5 +6,5 @@ Below is a Table of Contents for each assignment done:
 
 1. [Colour](P.1.colour/)
 2. [Assignment 1](Assignment1/)
-3. [Assignment 2](Assignment1/)
+3. [Assignment 2](Assignment2/)
 4. [Swiss Clock](SwissClock/)
